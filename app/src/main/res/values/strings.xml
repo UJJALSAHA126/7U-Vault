@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">7U Vault</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_document_type">Enter Document Type</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="add_front_image">Front Image</string>
+    <string name="add_back_image">Back Image</string>
+    <string name="done">Done</string>
+    <string name="search">Search</string>
+    <string name="continue_text">Continue</string>
+    <string name="create_new_pin">Create New Pin</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="enter_your_pin">Enter Your Pin</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="from_7ullc">From : 7ULLC</string>
+</resources>
